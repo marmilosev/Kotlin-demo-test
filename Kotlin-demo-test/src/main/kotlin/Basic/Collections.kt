@@ -1,3 +1,5 @@
+package Basic
+
 fun saySth(greeting:String, itemsToGreet:List<String>) {
     itemsToGreet.forEach(){itemToGreet ->
         println("$greeting $itemToGreet")
