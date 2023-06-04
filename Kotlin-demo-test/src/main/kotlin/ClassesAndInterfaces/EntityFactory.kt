@@ -1,0 +1,4 @@
+package ClassesAndInterfaces
+
+class EntityFactory {
+}
